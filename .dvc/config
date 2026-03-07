@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://parajuli-dvc-s3-mlops/mlops_tutorial
