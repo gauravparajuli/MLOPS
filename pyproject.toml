@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "aws>=0.2.5",
+    "awscli>=1.44.51",
     "dvc[s3]>=3.66.1",
     "mlflow>=3.10.1",
 ]
